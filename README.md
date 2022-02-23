@@ -4,9 +4,9 @@ Critério: O aluno deve entregar a lógica solicitada através de uma função q
 
 Ex:
 
-fun soma(a: Int, b: Int): Int {
-    return a + b
-}
+    fun soma(a: Int, b: Int): Int {
+        return a + b
+    }
 
 1) Função que receba base e expoente, e calcule a potência.
 
